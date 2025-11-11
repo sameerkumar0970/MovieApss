@@ -1,0 +1,167 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Mission Impossible – The Final Reckoning",
+      "poster": "https://media5.bollywoodhungama.in/wp-content/uploads/2025/04/Mission-Impossible-%E2%80%93-The-Final-Reckoning.jpg",
+      "Category": "Action",
+      "rating": 9,
+      "year": 2025
+    },
+    {
+      "id": "2",
+      "title": "The Dark Knight Returns",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e9/Batman_The_Dark_Knight_Returns_%28film%29.jpg",
+      "Category": "Action",
+      "rating": 9.5,
+      "year": 2024
+    },
+    {
+      "id": "3",
+      "title": "Avatar: The Way of Water",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/f0535dd61f56bddd6ee7f3bfb765645e45d78f373418ae37ee5103cf6eebbff0.jpg",
+      "Category": "Sci-Fi",
+      "rating": 8.8,
+      "year": 2023
+    },
+    {
+      "id": "4",
+      "title": "Inception",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjhkNjM0ZTMtNGM5MC00ZTQ3LTk3YmYtZTkzYzdiNWE0ZTA2XkEyXkFqcGc@._V1_.jpg",
+      "Category": "Sci-Fi",
+      "rating": 9.2,
+      "year": 2010
+    },
+    {
+      "id": "5",
+      "title": "Oppenheimer",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Drama",
+      "rating": 9.1,
+      "year": 2023
+    },
+    {
+      "id": "6",
+      "title": "Barbie",
+      "poster": "https://i.pinimg.com/736x/ba/99/5e/ba995e7dd1b86651ac5ece64cefb521a.jpg",
+      "Category": "Comedy",
+      "rating": 7.8,
+      "year": 2023
+    },
+    {
+      "id": "7",
+      "title": "Dune: Part Two",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Sci-Fi",
+      "rating": 9,
+      "year": 2024
+    },
+    {
+      "id": "8",
+      "title": "John Wick: Chapter 4",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Action",
+      "rating": 8.9,
+      "year": 2023
+    },
+    {
+      "id": "9",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Animation",
+      "rating": 9.4,
+      "year": 2023
+    },
+    {
+      "id": "10",
+      "title": "The Batman",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Action",
+      "rating": 8.7,
+      "year": 2022
+    },
+    {
+      "id": "11",
+      "title": "Tenet",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Thriller",
+      "rating": 8.2,
+      "year": 2020
+    },
+    {
+      "id": "12",
+      "title": "Interstellar",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Sci-Fi",
+      "rating": 9.3,
+      "year": 2014
+    },
+    {
+      "id": "13",
+      "title": "Joker",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Drama",
+      "rating": 8.9,
+      "year": 2019
+    },
+    {
+      "id": "14",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Adventure",
+      "rating": 8.6,
+      "year": 2023
+    },
+    {
+      "id": "15",
+      "title": "Black Panther: Wakanda Forever",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Action",
+      "rating": 8,
+      "year": 2022
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "title": "Mission Impossible – The Final Reckoning",
+      "poster": "https://media5.bollywoodhungama.in/wp-content/uploads/2025/04/Mission-Impossible-%E2%80%93-The-Final-Reckoning.jpg",
+      "Category": "Action",
+      "rating": 9,
+      "year": 2025
+    },
+    {
+      "id": "2",
+      "title": "The Dark Knight Returns",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e9/Batman_The_Dark_Knight_Returns_%28film%29.jpg",
+      "Category": "Action",
+      "rating": 9.5,
+      "year": 2024
+    },
+    {
+      "id": "2",
+      "title": "The Dark Knight Returns",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e9/Batman_The_Dark_Knight_Returns_%28film%29.jpg",
+      "Category": "Action",
+      "rating": 9.5,
+      "year": 2024
+    },
+    {
+      "id": "15",
+      "title": "Black Panther: Wakanda Forever",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Action",
+      "rating": 8,
+      "year": 2022
+    }
+  ],
+  "favourites": [
+    {
+      "id": "19",
+      "title": "The Marvels",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "Category": "Action",
+      "rating": 7.2,
+      "year": 2023}
+  ]
+}
