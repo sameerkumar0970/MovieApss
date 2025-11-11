@@ -27,4 +27,8 @@ MovieApss is a simple movie listing and cart web app built using HTML, CSS, and 
 
 ## Author
 
-Made by Sameer Kumar, Computer Science Engineer (Final Year) | Passionate JavaScript & Web Developer.
+Made by Sameer Kumar, Computer Science Engineer (Final Year) | Passionate JavaScript & Web Developer
+
+
+# View Web side
+http://127.0.0.1:5500/index.html
